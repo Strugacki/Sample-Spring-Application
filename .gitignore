@@ -1,0 +1,15 @@
+.idea
+
+# Compiled classes
+*.class
+
+# Package files
+*.jar
+
+# JVM crash logs
+hs_err_pid*
+
+replay_pid*
+
+
+*.iml
